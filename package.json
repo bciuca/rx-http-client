@@ -13,5 +13,11 @@
   "dependencies": {
     "rx": "^2.4.1"
   },
+  "licenses": [
+    {
+      "type": "The MIT License (MIT)",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
   "main": "./lib/index.js"
 }
