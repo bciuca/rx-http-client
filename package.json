@@ -6,18 +6,24 @@
     "url": "https://github.com/bciuca/rx-http-client"
   },
   "description": "Create HTTP requests async with RxJS.",
-  "author": {
-    "name": "bogdan ciuca",
-    "email": "bogdan.ciuca@gmail.com"
-  },
+  "author": "bogdan ciuca <bogdan.ciuca@gmail.com>",
   "dependencies": {
     "rx": "^2.4.1"
   },
-  "licenses": [
-    {
-      "type": "The MIT License (MIT)",
-      "url": "http://opensource.org/licenses/MIT"
-    }
+  "main": "./lib/index.js",
+  "bugs": {
+    "url": "https://github.com/bciuca/rx-http-client/issues"
+  },
+  "homepage": "https://github.com/bciuca/rx-http-client",
+  "directories": {
+    "example": "examples"
+  },
+  "keywords": [
+    "rx",
+    "rx-http",
+    "rx-http-client",
+    "rx-get",
+    "rx-request"
   ],
-  "main": "./lib/index.js"
+  "license": "MIT"
 }
