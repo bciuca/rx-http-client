@@ -1,0 +1,17 @@
+{
+  "name": "rx-http-client",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bciuca/rx-http-client"
+  },
+  "description": "Create HTTP requests async with RxJS.",
+  "author": {
+    "name": "bogdan ciuca",
+    "email": "bogdan.ciuca@gmail.com"
+  },
+  "dependencies": {
+    "rx": "^2.4.1"
+  },
+  "main": "./lib/index.js"
+}
