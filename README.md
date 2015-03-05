@@ -1,4 +1,4 @@
-rx-http-client
+Rx HTTP Client
 ==============
 
 Create HTTP requests from node and process async events using Rx.
