@@ -1,7 +1,7 @@
 Rx HTTP Client
 ==============
 
-Create HTTP requests from node and process async events using Rx.
+Create HTTP requests from node and process async events using Rx. This is a barebones wrapper for the builtin module, http.
 
 Example
 -------
