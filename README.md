@@ -3,6 +3,8 @@ Rx HTTP Client
 
 Create HTTP requests from node and process async events using Rx. This is a barebones wrapper for the builtin module, http.
 
+TODO: Migrate to [request](https://github.com/request/request) after issues with Node 0.12 have been resolved.
+
 Example
 -------
 ```javascript
